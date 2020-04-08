@@ -25,7 +25,7 @@ SECRET_KEY = 'oj9@wpdfmbjt98-td(=ni09+7jwb8e^)%%d2$5hd6k0fm)hz*m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['miyazakikentarou.pythonanywhere.com',]
+ALLOWED_HOSTS = ['miyazakikentarou.pythonanywhere.com','127.0.0.1']
 
 
 
